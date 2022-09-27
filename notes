@@ -1,0 +1,15 @@
+
+Get to repository from terminal
+-------------------------------
+cd ~
+cd desktop/portfolio
+
+
+push to github
+---------------
+git add . 
+git commit -m"message" 
+git push 
+
+
+
